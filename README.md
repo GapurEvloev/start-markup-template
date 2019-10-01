@@ -3,8 +3,8 @@
 
 ## Установка
 Склонировать репозиторий и выполнить:
-    1. `npm install` или `yarn install`;
-    2. gulp
+1. `npm install` или `yarn install`;
+2. `gulp`
 
 ## Cвязь
 - [в телеграм](https://t.me/gapur)
